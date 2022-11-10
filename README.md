@@ -4,7 +4,7 @@
   - TEAM ID : PNT2022TMID28702
   - TECHNOLOGY : DATA ANALYTICS
  
-## TEAM
+## PROJECT CONTRIBUTORS
   - TEAM LEADER : RAGUVARMAN K
   - TEAM MEMBER : VEERAMANI M
   - TEAM MEMBER : SATHISH K
@@ -19,4 +19,17 @@ This parameter helps hospitals to identify patients of high LOS-risk (patients w
 
 Suppose you have been hired as Data Scientist of Health Man – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.</p> </div>
 
+## 💻 TOOLS
+
+ - [Data Analysis with Python](https://en.wikipedia.org/wiki/Data_analysis)
+ - [IBM Cloud](https://en.wikipedia.org/wiki/IBM_Cloud)
+ - [IBM Watson](https://en.wikipedia.org/wiki/IBM_Watson)
+ - [IBM Cognos Analytics](https://en.wikipedia.org/wiki/IBM_Cognos_Analytics)
+
+## 💡 PROJECT DESIGN & PLANNING
+ - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-50582-1660916966/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+ - [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-50582-1660916966/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
+ - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-50582-1660916966/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
+ - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-50582-1660916966/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+ - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-50582-1660916966/tree/main/Project%20Development%20Phase)
 
