@@ -11,7 +11,7 @@
   
  <img src="https://media3.giphy.com/media/MCO1kdGhOs2bMcdQKa/giphy.gif?cid=ecf05e47d1aooffyrjz04dhi6vs7g6ohwuu5i2bxt8vbyegj&rid=giphy.gif&ct=s" width="32" height="32">
  ## PROJECT DESCRIPTION
-<div> <img src="https://i.pinimg.com/originals/27/e9/6e/27e96ef235e0a505bb7afdb18849e664.gif" align="center">
+<div> <img align="center" src="https://i.pinimg.com/originals/27/e9/6e/27e96ef235e0a505bb7afdb18849e664.gif">
 <p>Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
 Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
 
